@@ -11,7 +11,7 @@ The project was created to practice structuring web content and applying custom 
 - HTML5  
 - CSS3
 
-## How to View
+## How to Run or View
 1. Clone or download the repository.
 2. Open `index.html` in your web browser.
 
